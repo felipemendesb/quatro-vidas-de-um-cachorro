@@ -5,5 +5,10 @@ img {
 }
 
 footer {
-    color: blue;
+    color: white;
+    margin-top: 5%;
+    padding: 55px;
+    background-color: black;
+    border-top: 5px dotted;
+    border-color: red;
 }
